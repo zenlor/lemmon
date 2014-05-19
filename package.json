@@ -1,0 +1,22 @@
+{
+  "name": "lemmon",
+  "version": "0.0.1",
+  "description": "long polling handler",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/aliem/lemmon.git"
+  },
+  "keywords": [
+    "longpolling",
+    "comet"
+  ],
+  "author": "Lorenzo Giuliani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aliem/lemmon/issues"
+  }
+}
